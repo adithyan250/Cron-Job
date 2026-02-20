@@ -2,10 +2,8 @@ const express = require('express');
 const cron = require('node-cron');
 const axios = require('axios');
 const fs = require('fs');
-require('dotenv').config();
 
 const app = express();
-const PORT = process.env.PORT || 3000;
 const JOBS_FILE = './jobs.json';
 
 // Basic route to check if server is running

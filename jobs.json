@@ -1,10 +1,14 @@
 [
     {
-        "url": "https://google.com",
+        "url": "https://arietta-backend-1.onrender.com",
         "schedule": "*/14 * * * *"
     },
     {
-        "url": "https://bing.com",
+        "url": "https://arietta-backend.onrender.com",
         "schedule": "*/10 * * * *"
+    },
+    {
+        "url": "https://cron-job-vprj.onrender.com",
+        "schedule": "*/14 * * * *"
     }
 ]
