@@ -1,14 +1,26 @@
 [
     {
         "url": "https://arietta-backend-1.onrender.com",
-        "schedule": "*/14 * * * *"
+        "schedule": "*/10 * 1-15 * *"
     },
     {
         "url": "https://arietta-backend.onrender.com",
-        "schedule": "*/10 * * * *"
+        "schedule": "*/10 * 16-31 * *"
+    },
+    {
+        "url": "https://cron-job-1-1iac.onrender.com",
+        "schedule": "*/10 * 1-15 * *"
     },
     {
         "url": "https://cron-job-vprj.onrender.com",
-        "schedule": "*/14 * * * *"
+        "schedule": "*/10 * 16-31 * *"
+    },
+    {
+        "url": "https://tvm-backend-o8nc.onrender.com",
+        "schedule": "*/10 * 1-15 * *"
+    },
+    {
+        "url": "https://tvm-backend-1-jc0v.onrender.com",
+        "schedule": "*/10 * 16-31 * *"
     }
 ]
