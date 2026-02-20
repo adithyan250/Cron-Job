@@ -1,0 +1,10 @@
+[
+    {
+        "url": "https://google.com",
+        "schedule": "*/14 * * * *"
+    },
+    {
+        "url": "https://bing.com",
+        "schedule": "*/10 * * * *"
+    }
+]
