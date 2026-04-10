@@ -22,5 +22,9 @@
     {
         "url": "https://tvm-backend-1-jc0v.onrender.com",
         "schedule": "*/10 * 16-31 * *"
+    },
+    {
+        "url": "https://narzoshoppy.onrender.com",
+        "schedule": "*/10 * 1-15 * *"
     }
 ]
