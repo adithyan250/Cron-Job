@@ -8,8 +8,8 @@
         "schedule": "*/10 * 16-31 * *"
     },
     {
-        "url": "https://cron-job-1-1iac.onrender.com",
-        "schedule": "*/2 * 1-15 * *"
+        "url": "https://cron-job-wfeh.onrender.com",
+        "schedule": "*/2 * * * *"
     },
     {
         "url": "https://cron-job-vprj.onrender.com",
