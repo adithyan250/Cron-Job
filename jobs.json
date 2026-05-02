@@ -24,8 +24,8 @@
         "schedule": "*/10 * 16-31 * *"
     },
     {
-        "url": "https://narzoshoppy-backend.onrender.com",
-        "schedule": "*/10 * 1-15 * *"
+        "url": "https://narzoshoppy-backend-5hki.onrender.com",
+        "schedule": "*/10 * * * *"
     },
     {
         "url": "https://narzoshoppy-backend-1.onrender.com",
