@@ -30,5 +30,14 @@
     {
         "url": "https://narzoshoppy-backend-1.onrender.com",
         "schedule": "*/10 * 16-31 * *"
+    },
+    {
+        "url": "https://trackly-server-6vxx.onrender.com",
+        "schedule": "*/10 * * * *"
+    },
+    {
+        "url": "https://unplug-server.onrender.com",
+        "schedule": "*/10 * * * *"
     }
+
 ]
