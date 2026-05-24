@@ -38,6 +38,10 @@
     {
         "url": "https://unplug-server.onrender.com",
         "schedule": "*/10 * * * *"
+    },
+    {
+        "url": "https://autospare-server.onrender.com",
+        "schedule": "*/10 * * * *"
     }
 
 ]
